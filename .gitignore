@@ -6,3 +6,5 @@ mage_data/
 **/.file_versions/
 **/.ssh_tunnel/
 **/__pycache__/
+
+.vscode
